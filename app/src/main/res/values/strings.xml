@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HiWebViewSimulator</string>
+    <string name="base_url">https://dtbot.directtalk.com.br/1.0/staticbot</string>
+    <string name="token">232718b7-65a3-45aa-a5e5-c222b7caa699</string>
+    <string name="bot_params">&amp;nome_usuario=samuel&amp;email=email@email.com.br&amp;tokencbss=1234&amp;cpf=33365474002&amp;conta=287558&amp;tags=entregadocartao&amp;identifier=br.com.digio&amp;version=1.8.3&amp;name_identifier=digio&amp;model=iphone&amp;osversion=11.3.1&amp;platform=ios&amp;type=wifi&amp;carrier=tim&amp;ccode=br&amp;language=portuguese&amp;botopened=true</string>
+</resources>
